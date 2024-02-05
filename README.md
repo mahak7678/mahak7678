@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahak</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
+<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahak7678&label=Profile%20views&color=0e75b6&style=flat" alt="mahak7678" /> </p>
 
 - 🔭 I’m currently doing my online internship **Web developer**
