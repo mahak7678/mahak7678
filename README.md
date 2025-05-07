@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahak7678&label=Profile%20views&color=0e75b6&style=flat" alt="mahak7678" /> </p>
 
-- 🔭 I’m currently doing my online internship **Web developer**
+- 🔭 I’m currently doing my online internship **Full Stack java Developer**
 
-- 🌱 I’m currently learning **web technology**
+- 🌱 I’m currently learning **Full stack with java**
 
 - 📫 How to reach me **mahakbishnoi5@gmail.com**
 
